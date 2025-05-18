@@ -18,15 +18,6 @@ This project reads a series of DICOM files from a specified directory, reconstru
 
 ---
 
-## Requirements
-
-- Python 3.6 or higher
-- [pydicom](https://pydicom.github.io/)
-- [numpy](https://numpy.org/)
-- [matplotlib](https://matplotlib.org/)
-
----
-
 # Dependencies and Installation
 ----------------------------
 To install the DICOM Viewer, please follow these steps:
