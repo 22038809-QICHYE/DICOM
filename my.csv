@@ -1,0 +1,77 @@
+Group,Elem,Description,VR,Value
+0008,0005,Specific Character Set,CS,ISO_IR 100
+0008,0008,Image Type,CS,"['ORIGINAL', 'PRIMARY', 'AXIAL', 'HELICAL']"
+0008,0012,Instance Creation Date,DA,0
+0008,0013,Instance Creation Time,TM,160220.437
+0008,0016,SOP Class UID,UI,1.2.840.10008.5.1.4.1.1.2
+0008,0018,SOP Instance UID,UI,1.3.6.1.4.1.9590.100.1.2.245878272911148236123949180262075830917
+0008,0020,Study Date,DA,0
+0008,0022,Acquisition Date,DA,0
+0008,0023,Content Date,DA,0
+0008,0030,Study Time,TM,0
+0008,0032,Acquisition Time,TM,0
+0008,0033,Content Time,TM,0
+0008,0050,Accession Number,SH,0
+0008,0060,Modality,CS,CT
+0008,0070,Manufacturer,LO,0
+0008,0080,Institution Name,LO,0
+0008,0090,Referring Physician's Name,PN,
+0008,1030,Study Description,LO,0
+0008,103e,Series Description,LO,
+0008,1070,Operators' Name,PN,
+0008,1090,Manufacturer's Model Name,LO,NeuViz 16
+0010,0010,Patient's Name,PN,
+0010,0020,Patient ID,LO,
+0010,0030,Patient's Birth Date,DA,
+0010,0040,Patient's Sex,CS,M
+0010,1010,Patient's Age,AS,080Y
+0010,1020,Patient's Size,DS,0
+0010,1030,Patient's Weight,DS,0
+0010,4000,Patient Comments,LT,
+0018,0010,Contrast/Bolus Agent,LO,C+
+0018,0022,Scan Options,CS,HELICAL
+0018,0050,Slice Thickness,DS,1
+0018,0060,KVP,DS,120
+0018,0090,Data Collection Diameter,DS,500
+0018,1020,Software Versions,LO,NeuViz 16 1.1
+0018,1030,Protocol Name,LO,PE Test Bolus
+0018,1050,Spatial Resolution,DS,0.35
+0018,1100,Reconstruction Diameter,DS,363
+0018,1110,Distance Source to Detector,DS,1040
+0018,1111,Distance Source to Patient,DS,570
+0018,1120,Gantry/Detector Tilt,DS,0
+0018,1130,Table Height,DS,368.9
+0018,1140,Rotation Direction,CS,CW
+0018,1150,Exposure Time,IS,11162
+0018,1151,X-Ray Tube Current,IS,276
+0018,1152,Exposure,IS,171
+0018,1160,Filter Type,SH,SA
+0018,1210,Convolution Kernel,SH,SA
+0018,5100,Patient Position,CS,HFS
+0020,000d,Study Instance UID,UI,0
+0020,000e,Series Instance UID,UI,0
+0020,0010,Study ID,SH,0
+0020,0011,Series Number,IS,5
+0020,0012,Acquisition Number,IS,4
+0020,0013,Instance Number,IS,1
+0020,0032,Image Position (Patient),DS,"[-146.5, -181.5, -795.5]"
+0020,0037,Image Orientation (Patient),DS,"[1, 0, 0, 0, 1, 0]"
+0020,0052,Frame of Reference UID,UI,1.2.156.14702.1.1000.16.3.164.20150929154649015
+0020,1040,Position Reference Indicator,LO,
+0020,1041,Slice Location,DS,795.5
+0028,0002,Samples per Pixel,US,1
+0028,0004,Photometric Interpretation,CS,MONOCHROME2
+0028,0010,Rows,US,512
+0028,0011,Columns,US,512
+0028,0030,Pixel Spacing,DS,"[0.708984, 0.708984]"
+0028,0100,Bits Allocated,US,16
+0028,0101,Bits Stored,US,16
+0028,0102,High Bit,US,15
+0028,0103,Pixel Representation,US,0
+0028,0106,Smallest Image Pixel Value,US,0
+0028,0107,Largest Image Pixel Value,US,2170
+0028,1050,Window Center,DS,90
+0028,1051,Window Width,DS,500
+0028,1052,Rescale Intercept,DS,-1024
+0028,1053,Rescale Slope,DS,1
+7fe0,0010,Pixel Data,OW,b'\x19\x00\x1c\x00!\x00&\x00$\x00%\x00\x1c\x00\x16\x00\x0f\x00\r\x00\x0b\x00\x12\x00\x1c\x00\x19\...
