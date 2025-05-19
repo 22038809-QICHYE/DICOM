@@ -15,6 +15,7 @@ This project reads a series of DICOM files from a specified directory, reconstru
 - Constructs a 3D volumetric representation from 2D slices
 - Calculates the correct aspect ratios for realistic visualization
 - Displays axial, sagittal, and coronal views of the 3D volume
+- Reads compressed DICOM file
 
 ---
 
