@@ -2,6 +2,7 @@
 
 > You can understand the components of this project better at [YouTube playlist](https://www.youtube.com/watch?v=hWwAFNmPZFQ&list=PLEJnINKHyZIDRbBzm9RaH4yEkTLjmPOZr)
 > and the library used [mataplotlib](https://matplotlib.org/stable/users/explain/quick_start.html).
+> [DICOM_Library](https://www.dicomlibrary.com/dicom/transfer-syntax)
 
 # Introduction
 This project reads a series of DICOM files from a specified directory, reconstructs a 3D volume from the 2D image slices, and visualizes axial, sagittal, and coronal views using Python. It leverages popular libraries such as `pydicom`, `numpy`, and `matplotlib` for DICOM handling, numerical computations, and plotting respectively.
