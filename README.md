@@ -1,6 +1,6 @@
 # DICOM Viewer
 
-> You can understand the components of this project better at [YouTube playlist](https://www.youtube.com/watch?v=hWwAFNmPZFQ&list=PLEJnINKHyZIDRbBzm9RaH4yEkTLjmPOZr), [DICOM_Library](https://www.dicomlibrary.com/dicom/transfer-syntax), [medicalconnections](https://www.medicalconnections.co.uk/kb/Transfer-Syntax)
+> You can understand the components of this project better at [YouTube playlist](https://www.youtube.com/watch?v=hWwAFNmPZFQ&list=PLEJnINKHyZIDRbBzm9RaH4yEkTLjmPOZr), [DICOM_Library](https://www.dicomlibrary.com/dicom/transfer-syntax), [dicom_innolitics](https://dicom.innolitics.com/ciods)
 > and the library used [mataplotlib](https://matplotlib.org/stable/users/explain/quick_start.html), [Pydicom](https://pydicom.github.io/pydicom/stable/auto_examples/index.html)
 
 # Introduction
